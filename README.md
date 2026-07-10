@@ -6,11 +6,7 @@ Sou estudante de Informática e apaixonada por dar vida a ideias através do des
 
 Este card analisa automaticamente os meus repositórios públicos e exibe as linguagens reais que usei:
 
-<p align="left">
-  <a href="https://github.com/steiciealeixosousa">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=steiciealeixosousa&layout=compact&theme=dark&hide=python,javascript" alt="Linguagens mais usadas pela Steicie" />
-  </a>
-</p>
+<p align="left"><a href="https://github.com/steiciealeixosousa"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=steiciealeixosousa&layout=compact&theme=dark&hide=python,javascript" alt="Linguagens mais usadas pela Steicie" /></a></p>
 
 ## 🐍 Minhas Contribuições
 
