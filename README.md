@@ -6,9 +6,9 @@ Sou estudante de Informática e apaixonada por dar vida a ideias através do des
 
 ## 📊 Minhas Tecnologias (Dados Reais do GitHub)
 
-<!-- Card alternativo e estável que puxa as linguagens reais da sua conta -->
+<!-- Este card usa a API estável do Metrics para calcular os dados reais da sua conta -->
 <p align="left">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=steiciealeixosousa&layout=compact&theme=dark&hide=python,javascript" alt="Linguagens reais da Steicie" />
+  <img src="https://metrics.lecoq.io/steiciealeixosousa?base=repositories&plugin_languages=yes&plugin_languages_sections=most-used&plugin_languages_details=percentage&plugin_languages_limit=4&plugin_languages_skipped=python,javascript" alt="Linguagens reais da Steicie" />
 </p>
 
 ## 🐍 Minhas Contribuições
