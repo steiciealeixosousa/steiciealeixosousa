@@ -2,7 +2,13 @@
 
 Sou estudante de Informática e apaixonada por dar vida a ideias através do desenvolvimento web frontend, interfaces interativas e experiências imersivas. Adoro o equilíbrio entre a energia dos ambientes urbanos e a tranquilidade da natureza. Quando não estou codando ou estudando, provavelmente estou cuidando dos meus 4 gatos! 🐾
 
+## 📊 Tecnologias Detectadas nos meus Repositórios
 
+Os ícones abaixo são gerados automaticamente identificando o código real da minha conta:
+
+<p align="left">
+  <img src="https://github-readme-tech-icons.vercel.app/api/icons?username=steiciealeixosousa&theme=dark&perline=5" alt="Tecnologias do Repositório da Steicie" />
+</p>
 
 ## 📊 Minhas Tecnologias (Dados Reais do GitHub)
 
