@@ -22,9 +22,13 @@ Aqui estão algumas das principais tecnologias que utilizei nos meus projetos no
 Nesta seção, uma cobrinha passeia pelo meu gráfico de commits devorando o histórico de código do último ano! 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USUARIO_AQUI/SEU_USUARIO_AQUI/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU_USUARIO_AQUI/SEU_USUARIO_AQUI/output/github-contribution-grid-snake.svg">
-  <img alt="Github Contribution Snake" src="https://raw.githubusercontent.com/SEU_USUARIO_AQUI/SEU_USUARIO_AQUI/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/steiciealeixosousa/steiciealeixosousa/output/github-contribution-grid-snake-dark.svg">
+
+   
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/steiciealeixosousa
+/steiciealeixosousa/output/github-contribution-grid-snake.svg">
+  <img alt="Github Contribution Snake" src="https://raw.githubusercontent.com/steiciealeixosousa
+/steiciealeixosousa/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
