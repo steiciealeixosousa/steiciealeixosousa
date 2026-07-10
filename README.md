@@ -2,14 +2,14 @@
 
 Sou estudante de Informática e apaixonada por dar vida a ideias através do desenvolvimento web frontend, interfaces interativas e experiências imersivas. Adoro o equilíbrio entre a energia dos ambientes urbanos e a tranquilidade da natureza. Quando não estou codando ou estudando, provavelmente estou cuidando dos meus 4 gatos! 🐾
 
-## 📊 Idiomas e Tecnologias Mais Usadas
+## 📊 Tecnologias Mais Usadas & Proficiência
 
-| Tecnologia | Porcentagem | Barra de Progresso |
+| Tecnologia | Porcentagem | Badge / Ícone |
 | :--- | :---: | :--- |
-| **HTML5** | 45% | ![45%](https://geps.dev/progress/45?dangerColor=e34c26&warningColor=e34c26&successColor=e34c26) |
-| **JavaScript** | 30% | ![30%](https://geps.dev/progress/30?dangerColor=f1e05a&warningColor=f1e05a&successColor=f1e05a) |
-| **CSS3** | 15% | ![15%](https://geps.dev/progress/15?dangerColor=563d7c&warningColor=563d7c&successColor=563d7c) |
-| **Python** | 10% | ![10%](https://geps.dev/progress/10?dangerColor=3572A5&warningColor=3572A5&successColor=3572A5) |
+| **HTML5** | 45% | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) |
+| **JavaScript** | 30% | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+| **CSS3** | 15% | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
+| **Python** | 10% | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
 
 
 ## 🐍 Minhas Contribuições
