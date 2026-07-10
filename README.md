@@ -3,6 +3,8 @@
 Sou estudante de Informática e apaixonada por dar vida a ideias através do desenvolvimento web frontend, interfaces interativas e experiências imersivas. Adoro o equilíbrio entre a energia dos ambientes urbanos e a tranquilidade da natureza. Quando não estou codando ou estudando, provavelmente estou cuidando dos meus 4 gatos! 🐾
 
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steiciealeixosousa&layout=compact&langs_count=7&theme=radial" alt="Linguagens mais usadas pela Steicie" />
+
 
 ## 🐍 Minhas Contribuições
 
