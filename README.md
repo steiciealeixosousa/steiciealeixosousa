@@ -2,9 +2,7 @@
 
 Sou estudante de Informática e apaixonada por dar vida a ideias através do desenvolvimento web frontend, interfaces interativas e experiências imersivas. Adoro o equilíbrio entre a energia dos ambientes urbanos e a tranquilidade da natureza. Quando não estou codando ou estudando, provavelmente estou cuidando dos meus 4 gatos! 🐾
 
-## 📊 Minhas Tecnologias (Dados Reais do GitHub)
 
-Este card analisa automaticamente os meus repositórios públicos e exibe as linguagens reais que usei:
 
 ## 📊 Minhas Tecnologias (Dados Reais do GitHub)
 
