@@ -2,15 +2,15 @@
 
 Sou estudante de Informática e apaixonada por dar vida a ideias através do desenvolvimento web frontend, interfaces interativas e experiências imersivas. Adoro o equilíbrio entre a energia dos ambientes urbanos e a tranquilidade da natureza. Quando não estou codando ou estudando, provavelmente estou cuidando dos meus 4 gatos! 🐾
 
-## 📊 Tecnologias Mais Usadas & Proficiência
+## 📊 Minhas Tecnologias (Dados Reais do GitHub)
 
-| Tecnologia | Porcentagem | Badge / Ícone |
-| :--- | :---: | :--- |
-| **HTML5** | 45% | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) |
-| **JavaScript** | 30% | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
-| **CSS3** | 15% | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
-| **Python** | 10% | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
+Este card analisa automaticamente os meus repositórios públicos e exibe as linguagens reais que usei:
 
+<p align="left">
+  <a href="https://github.com/steiciealeixosousa">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=steiciealeixosousa&layout=compact&theme=dark&hide=python,javascript" alt="Linguagens mais usadas pela Steicie" />
+  </a>
+</p>
 
 ## 🐍 Minhas Contribuições
 
