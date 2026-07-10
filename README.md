@@ -2,8 +2,14 @@
 
 Sou estudante de Informática e apaixonada por dar vida a ideias através do desenvolvimento web frontend, interfaces interativas e experiências imersivas. Adoro o equilíbrio entre a energia dos ambientes urbanos e a tranquilidade da natureza. Quando não estou codando ou estudando, provavelmente estou cuidando dos meus 4 gatos! 🐾
 
+## 📊 Idiomas e Tecnologias Mais Usadas
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steiciealeixosousa&layout=compact&langs_count=7&theme=radial" alt="Linguagens mais usadas pela Steicie" />
+| Tecnologia | Porcentagem | Barra de Progresso |
+| :--- | :---: | :--- |
+| **HTML5** | 45% | ![45%](https://geps.dev/progress/45?dangerColor=e34c26&warningColor=e34c26&successColor=e34c26) |
+| **JavaScript** | 30% | ![30%](https://geps.dev/progress/30?dangerColor=f1e05a&warningColor=f1e05a&successColor=f1e05a) |
+| **CSS3** | 15% | ![15%](https://geps.dev/progress/15?dangerColor=563d7c&warningColor=563d7c&successColor=563d7c) |
+| **Python** | 10% | ![10%](https://geps.dev/progress/10?dangerColor=3572A5&warningColor=3572A5&successColor=3572A5) |
 
 
 ## 🐍 Minhas Contribuições
