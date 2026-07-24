@@ -3,10 +3,10 @@
 Sou estudante de Informática e apaixonada por dar vida a ideias através do desenvolvimento web frontend, interfaces interativas e experiências imersivas. Adoro o equilíbrio entre a energia dos ambientes urbanos e a tranquilidade da natureza. Quando não estou codando ou estudando, provavelmente estou cuidando dos meus 5 gatos! 🐾
 
 
-## 📊 Tecnologias Mais Utilizadas
+## 📊 Tecnologias
 
 <p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=steiciealeixosousa&layout=compact&theme=dracula&hide_border=true" alt="Tecnologias mais usadas" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,flutter,dart,firebase,mysql,git,github,vscode" />
 </p>
 
 ## 🐍 Minhas Contribuições
@@ -22,9 +22,4 @@ Nesta seção, uma cobrinha passeia pelo meu gráfico de commits devorando o his
 *Conecte-se comigo para trocarmos ideias sobre frontend, hardware ou para me mostrar fotos dos seus pets!* 😊
 
 
-## 📊 Tecnologias Mais Utilizadas
 
-<p align="left">
-  <!-- Card dinâmico que puxa linguagens, porcentagens e ícones dos seus repositórios -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=steiciealeixosousa&layout=compact&hide_border=true&theme=radial&langs_count=6" alt="Linguagens mais usadas por Steicie" />
-</p>
