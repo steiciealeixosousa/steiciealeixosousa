@@ -5,7 +5,13 @@ Sou estudante de Informática e apaixonada por dar vida a ideias através do des
 
 ## 📊 Tecnologias Mais Utilizadas
 
-
+<p align="center">
+  <img
+    src="./assets/languages.svg?v=1"
+    alt="Tecnologias Mais Utilizadas"
+    width="700"
+  />
+</p>
 
 ## 🐍 Minhas Contribuições
 
