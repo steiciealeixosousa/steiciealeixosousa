@@ -3,10 +3,10 @@
 Sou estudante de Informática e apaixonada por dar vida a ideias através do desenvolvimento web frontend, interfaces interativas e experiências imersivas. Adoro o equilíbrio entre a energia dos ambientes urbanos e a tranquilidade da natureza. Quando não estou codando ou estudando, provavelmente estou cuidando dos meus 5 gatos! 🐾
 
 
-## 📊 Tecnologias
+## 📊 Tecnologias Mais Utilizadas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,flutter,dart,firebase,mysql,git,github,vscode" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=steiciealeixosousa&layout=compact&hide_border=true&theme=radial&langs_count=6" alt="Linguagens mais usadas por Steicie" />
 </p>
 
 ## 🐍 Minhas Contribuições
