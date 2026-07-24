@@ -77,6 +77,10 @@ async function fetchLanguages() {
     0
   );
 
+
+console.log("Totais encontrados:");
+console.table(totals);
+  
   const languages = Object.entries(totals)
     .map(([name, bytes]) => ({
       name,
