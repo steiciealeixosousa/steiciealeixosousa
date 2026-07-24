@@ -3,11 +3,11 @@
 Sou estudante de Informática e apaixonada por dar vida a ideias através do desenvolvimento web frontend, interfaces interativas e experiências imersivas. Adoro o equilíbrio entre a energia dos ambientes urbanos e a tranquilidade da natureza. Quando não estou codando ou estudando, provavelmente estou cuidando dos meus 5 gatos! 🐾
 
 
-## 📊 Minhas Tecnologias (Dados Reais do GitHub)
+## 📊 Tecnologias Mais Utilizadas
 
-<!-- Este card usa a API estável do Metrics para calcular os dados reais da sua conta -->
 <p align="left">
-  <img src="https://metrics.lecoq.io/steiciealeixosousa?base=repositories&plugin_languages=yes&plugin_languages_sections=most-used&plugin_languages_details=percentage&plugin_languages_limit=4&plugin_languages_skipped=python,javascript" alt="Linguagens reais da Steicie" />
+  <!-- Card dinâmico que puxa linguagens, porcentagens e ícones dos seus repositórios -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=steiciealeixosousa&layout=compact&hide_border=true&theme=radial&langs_count=6" alt="Linguagens mais usadas por Steicie" />
 </p>
 
 ## 🐍 Minhas Contribuições
