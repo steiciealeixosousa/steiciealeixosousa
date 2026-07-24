@@ -7,7 +7,7 @@ Sou estudante de Informática e apaixonada por dar vida a ideias através do des
 
 <p align="center">
   <img
-    src="./assets/languages.svg?v=1"
+    src="./assets/languages.svg?v=2"
     alt="Tecnologias Mais Utilizadas"
     width="700"
   />
