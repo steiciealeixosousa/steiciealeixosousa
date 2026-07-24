@@ -1,4 +1,3 @@
-
 import { Octokit } from "@octokit/rest";
 import fs from "fs";
 import { generateSVG } from "./generate-svg.js";
@@ -9,6 +8,22 @@ const token = process.env.GITHUB_TOKEN;
 const octokit = new Octokit({
   auth: token,
 });
+
+// Linguagens que não queremos mostrar
+const ignoredLanguages = [
+  "Hack",
+  "Shell",
+  "Batchfile",
+  "Makefile",
+  "Dockerfile",
+  "PowerShell"
+];
+
+// Repositórios que não devem entrar na estatística
+const ignoredRepos = [
+  username, // repositório do perfil
+  ".github"
+];
 
 async function fetchLanguages() {
   let page = 1;
@@ -23,7 +38,15 @@ async function fetchLanguages() {
 
     if (data.length === 0) break;
 
-    repos.push(...data.filter(r => !r.fork));
+    repos.push(
+      ...data.filter(
+        (repo) =>
+          !repo.fork &&
+          !repo.archived &&
+          !ignoredRepos.includes(repo.name)
+      )
+    );
+
     page++;
   }
 
@@ -37,20 +60,30 @@ async function fetchLanguages() {
       });
 
       for (const [language, bytes] of Object.entries(data)) {
+
+        if (ignoredLanguages.includes(language))
+          continue;
+
         totals[language] = (totals[language] || 0) + bytes;
       }
-    } catch (e) {
+
+    } catch (err) {
       console.log(`Erro em ${repo.name}`);
     }
   }
 
-  const totalBytes = Object.values(totals).reduce((a, b) => a + b, 0);
+  const totalBytes = Object.values(totals).reduce(
+    (a, b) => a + b,
+    0
+  );
 
   const languages = Object.entries(totals)
     .map(([name, bytes]) => ({
       name,
       bytes,
-      percentage: ((bytes / totalBytes) * 100).toFixed(2),
+      percentage: Number(
+        ((bytes / totalBytes) * 100).toFixed(2)
+      ),
     }))
     .sort((a, b) => b.bytes - a.bytes);
 
