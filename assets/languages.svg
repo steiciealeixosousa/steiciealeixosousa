@@ -1,5 +1,5 @@
 
-<svg width="700" height="232"
+<svg width="700" height="180"
 xmlns="http://www.w3.org/2000/svg">
 
 <rect
@@ -51,7 +51,7 @@ font-family="Arial">
           fill="#ffffff"
           text-anchor="end"
           font-family="Arial">
-          51.38%
+          61.25%
         </text>
       
         <text x="30" y="94"
@@ -73,7 +73,7 @@ font-family="Arial">
           x="170"
           y="82"
           rx="6"
-          width="215.13040093421563"
+          width="215.10204081632654"
           height="14"
           fill="#563d7c"/>
 
@@ -84,79 +84,13 @@ font-family="Arial">
           fill="#ffffff"
           text-anchor="end"
           font-family="Arial">
-          32.51%
-        </text>
-      
-        <text x="30" y="128"
-              font-size="16"
-              fill="#ffffff"
-              font-family="Arial">
-          JavaScript
-        </text>
-
-        <rect
-          x="170"
-          y="116"
-          rx="6"
-          width="340"
-          height="14"
-          fill="#2d333b"/>
-
-        <rect
-          x="170"
-          y="116"
-          rx="6"
-          width="77.62164266251459"
-          height="14"
-          fill="#f1e05a"/>
-
-        <text
-          x="530"
-          y="128"
-          font-size="14"
-          fill="#ffffff"
-          text-anchor="end"
-          font-family="Arial">
-          11.73%
-        </text>
-      
-        <text x="30" y="162"
-              font-size="16"
-              fill="#ffffff"
-              font-family="Arial">
-          Hack
-        </text>
-
-        <rect
-          x="170"
-          y="150"
-          rx="6"
-          width="340"
-          height="14"
-          fill="#2d333b"/>
-
-        <rect
-          x="170"
-          y="150"
-          rx="6"
-          width="28.984040482678086"
-          height="14"
-          fill="#8b5cf6"/>
-
-        <text
-          x="530"
-          y="162"
-          font-size="14"
-          fill="#ffffff"
-          text-anchor="end"
-          font-family="Arial">
-          4.38%
+          38.75%
         </text>
       
 
 <text
 x="30"
-y="212"
+y="160"
 font-size="12"
 fill="#888"
 font-family="Arial">
