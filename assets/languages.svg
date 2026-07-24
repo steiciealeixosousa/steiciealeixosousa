@@ -1,5 +1,5 @@
 
-<svg width="700" height="180"
+<svg width="700" height="194"
 xmlns="http://www.w3.org/2000/svg">
 
 <rect
@@ -51,7 +51,7 @@ font-family="Arial">
           fill="#ffffff"
           text-anchor="end"
           font-family="Arial">
-          61.25%
+          56.73%
         </text>
       
         <text x="30" y="94"
@@ -73,7 +73,7 @@ font-family="Arial">
           x="170"
           y="82"
           rx="6"
-          width="215.10204081632654"
+          width="215.09959457077383"
           height="14"
           fill="#563d7c"/>
 
@@ -84,13 +84,46 @@ font-family="Arial">
           fill="#ffffff"
           text-anchor="end"
           font-family="Arial">
-          38.75%
+          35.89%
+        </text>
+      
+        <text x="30" y="128"
+              font-size="16"
+              fill="#ffffff"
+              font-family="Arial">
+          Python
+        </text>
+
+        <rect
+          x="170"
+          y="116"
+          rx="6"
+          width="340"
+          height="14"
+          fill="#2d333b"/>
+
+        <rect
+          x="170"
+          y="116"
+          rx="6"
+          width="44.230565838180866"
+          height="14"
+          fill="#3572A5"/>
+
+        <text
+          x="530"
+          y="128"
+          font-size="14"
+          fill="#ffffff"
+          text-anchor="end"
+          font-family="Arial">
+          7.38%
         </text>
       
 
 <text
 x="30"
-y="160"
+y="174"
 font-size="12"
 fill="#888"
 font-family="Arial">
