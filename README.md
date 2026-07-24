@@ -5,8 +5,8 @@ Sou estudante de Informática e apaixonada por dar vida a ideias através do des
 
 ## 📊 Tecnologias Mais Utilizadas
 
-<p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=steiciealeixosousa&layout=compact&theme=radical" alt="Linguagens mais usadas por Steicie" />
+<p align="center">
+  <img src="assets/languages.svg" width="700">
 </p>
 
 ## 🐍 Minhas Contribuições
