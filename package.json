@@ -1,0 +1,13 @@
+{
+  "name": "github-profile-language-stats",
+  "version": "1.0.0",
+  "description": "Generate language statistics SVG for GitHub Profile README",
+  "main": "scripts/fetch-languages.js",
+  "type": "module",
+  "scripts": {
+    "start": "node scripts/fetch-languages.js"
+  },
+  "dependencies": {
+    "@octokit/rest": "^22.0.0"
+  }
+}
