@@ -20,3 +20,11 @@ Nesta seção, uma cobrinha passeia pelo meu gráfico de commits devorando o his
 ---
 
 *Conecte-se comigo para trocarmos ideias sobre frontend, hardware ou para me mostrar fotos dos seus pets!* 😊
+
+
+## 📊 Tecnologias Mais Utilizadas
+
+<p align="left">
+  <!-- Card dinâmico que puxa linguagens, porcentagens e ícones dos seus repositórios -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=steiciealeixosousa&layout=compact&hide_border=true&theme=radial&langs_count=6" alt="Linguagens mais usadas por Steicie" />
+</p>
